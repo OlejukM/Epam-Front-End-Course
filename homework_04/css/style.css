@@ -177,6 +177,7 @@ a:hover {
   background-repeat: no-repeat;
   width: 66%;
   height: 300px;
+  border: 1px solid #fff;
 }
 
 #top-right {
@@ -184,6 +185,7 @@ a:hover {
   background-repeat: no-repeat;
   width: 32%;
   height: 300px;
+  border: 1px solid #fff;
 }
 
 #bottom-left {
@@ -191,6 +193,7 @@ a:hover {
   background-repeat: no-repeat;
   width: 32%;
   height: 300px;
+  border: 1px solid #fff;
 }
 
 #bottom-right {
@@ -198,6 +201,7 @@ a:hover {
   background-repeat: no-repeat;
   width: 66%;
   height: 300px;
+  border: 1px solid #fff;
 }
 
 .img-likes {
