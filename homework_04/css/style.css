@@ -183,7 +183,7 @@ a:hover {
 #top-right {
   background-image: url("../img/sample2.jpg");
   background-repeat: no-repeat;
-  width: 32%;
+  width: 31%;
   height: 300px;
   border: 1px solid #fff;
 }
@@ -191,7 +191,7 @@ a:hover {
 #bottom-left {
   background-image: url("../img/sample2.jpg");
   background-repeat: no-repeat;
-  width: 32%;
+  width: 31%;
   height: 300px;
   border: 1px solid #fff;
 }
