@@ -1,6 +1,6 @@
-function isPrime(figure){
+function isPrime(figure) {
   for (i = 2; i < figure; i++)
-    if(figure % i === 0){
+    if (figure % i === 0) {
       return false;
     }
   return true;

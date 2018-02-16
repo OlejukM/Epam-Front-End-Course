@@ -1,8 +1,8 @@
-function isSmaller (greater,lesser) {
-return !isBigger
+function isSmaller(greater, lesser) {
+  return !isBigger(greater, lesser);
 }
 
-function isBigger(greater,lesser){
+function isBigger(greater, lesser) {
   return (greater > lesser);
 }
 
