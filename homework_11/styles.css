@@ -1,0 +1,30 @@
+/* Your styles goes here */
+
+.emptyFolder {
+  font-style: italic;
+  display: none;
+  margin-left: 50px;
+}
+p:hover {
+    background-color: #f2f2f2;
+}
+.file:hover {
+  background-color: #eeefee;
+}
+ul {
+  list-style: none;
+  cursor: pointer;
+}
+ul span {
+  vertical-align: super;
+  margin: 3px;
+}
+ul li ul {
+  display: none;
+}
+.material-icons {
+  color: #f0ea3c;
+}
+.file {
+  color: #9a9a9a;
+}
